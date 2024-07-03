@@ -1,0 +1,43 @@
+li{
+
+
+    list-style: none;
+    
+
+}
+ul{
+    list-style: none;
+}
+table{
+
+   color: black;
+}
+
+
+.Add{
+    background-color: green;
+    border: none;
+}
+.Update{
+    background-color: blue;
+  margin-left: 3px;
+  margin-right: 3px;
+  border: none;
+}
+.Delete{
+    background-color: red;
+    border: none;
+}
+.btns .btn{
+margin-left: 10rem;
+}
+th{
+    border-bottom: 1px solid black;
+}
+h3{
+    color: black;
+}
+button:hover{
+    cursor: pointer;
+    
+}

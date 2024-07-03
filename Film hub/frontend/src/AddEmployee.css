@@ -1,0 +1,25 @@
+form{
+    display: grid;
+    max-width: 80%;
+    margin: 0 auto;
+}
+label{
+    color: black;
+}
+form button{
+    margin-top: 8px;
+    margin-bottom: 5px;
+width: 80px;
+background-color: dodgerblue;
+border: none;
+}
+form input{
+    background-color: white;
+    border-radius: 5px;
+    height: 30px;
+    color: black;
+    border: 1px solid gray;
+}
+form input:hover{
+box-shadow: 1px 1px 1px 2px blue;
+}

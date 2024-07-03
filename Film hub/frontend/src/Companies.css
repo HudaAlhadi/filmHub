@@ -1,0 +1,54 @@
+li{
+
+
+    list-style: none;
+    
+
+}
+ul{
+    list-style: none;
+}
+table{
+
+   color: black;
+}
+
+
+.Add{
+    background-color: green;
+    border: none;
+   padding: 0.4rem 0.5rem;
+}
+.Update{
+    background-color: blue;
+  margin-left: 3px;
+  margin-right: 3px;
+  border: none;
+}
+.Delete{
+    background-color: red;
+    border: none;
+}
+
+th{
+    border-bottom: 1px solid black;
+}
+h3{
+ color: rgb(9, 15, 9);
+ margin-left: 1rem;
+}
+button:hover{
+    cursor: pointer;
+    
+}
+.main{
+
+    display: flex;
+    justify-content: center;
+}
+.UpdateButton{
+    margin-left: 3px;
+    margin-right: 3px;
+    border: none;
+    background-color: rgb(207, 185, 76);
+}
